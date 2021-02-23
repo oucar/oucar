@@ -14,7 +14,7 @@
 [<img align="left" alt="Onur Ucar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 ---
-<br />
+<br/>
 
 ### Under my belt:
 
@@ -36,6 +36,7 @@
 <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
+<br/>
 ---
 <br/>
 
@@ -46,9 +47,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<br />
-<br />
+<br/>
+<br/>
 ---
+<br/>
 
 
 <summary>:zap: GitHub Stats</summary>
