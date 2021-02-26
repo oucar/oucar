@@ -1,4 +1,4 @@
-### Hi there, Onur 👋
+### Hi there, I'm Onur 👋
 
 ## I'm a Sophomore who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
 
