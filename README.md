@@ -1,6 +1,6 @@
 ### Hi there, I'm Onur 👋
 
-## I'm a Sophomore who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
+## I'm a Junior who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
 
 - 🔭 I'm currently improving my Data Structures & Algorithm skills using C++ and JavaScript.
 - 🌱 I’m currently learning MERN stack development (mainly focused on the backend side).
