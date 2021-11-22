@@ -3,8 +3,7 @@
 ## I'm a Junior who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
 
 - 🔭 I'm currently improving my Data Structures & Algorithm skills using C++ and JavaScript.
-- 🌱 I’m currently learning MERN stack development (mainly focused on the backend side).
-- 👯 I’m looking to collaborate with other programmers and landing on an internship by 2022.
+- 🌱 I’m currently learning MERN stack development.
 - 🥅 My 2021 goal is to create more projects for my portfolio.
 - ⚡ Fun fact: I love to take photos with my drone.
 
