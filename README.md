@@ -52,7 +52,6 @@
 
 
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="oucar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=oucar&show_icons=true&hide_border=true&count_private=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oucar)](https://github.com/oucar)
 
