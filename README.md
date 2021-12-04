@@ -4,8 +4,9 @@
 
 - 🔭 I'm currently improving my Data Structures & Algorithm skills using C++ and JavaScript.
 - 🌱 I’m currently learning MERN stack development.
-- 🥅 My 2021 goal is to create more projects for my portfolio.
+- 🥅 My 2022 goal is to create more projects for my portfolio and find a full-time position I deserve.
 - ⚡ Fun fact: I love to take photos with my drone.
+- Incoming Software Engineer Intern @ Blue Horseshoe Solutions
 
 ## Connect with me:
 [<img align="left" alt="Onur Ucar | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
