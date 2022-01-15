@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning MERN stack development.
 - 🥅 My 2022 goal is to create more projects for my portfolio and find a full-time position I deserve.
 - ⚡ Fun fact: I love to take photos with my drone.
-- Incoming Software Engineer Intern @ Navient
+- :computer: Incoming Software Engineer Intern @ Navient
 
 ## Connect with me:
 [<img align="left" alt="Onur Ucar | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
