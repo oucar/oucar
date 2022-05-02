@@ -58,5 +58,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oucar)](https://github.com/oucar)
 
-[instagram]: https://instagram.com/ucarthegreat
 [linkedin]: https://www.linkedin.com/in/onur-ucar-747032186
