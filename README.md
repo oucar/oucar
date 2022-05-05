@@ -1,10 +1,6 @@
 ### Hi there, I'm Onur 👋
 
 ## I'm a Junior who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
-
-- 🔭 I'm currently improving my Data Structures & Algorithm skills using C++ and JavaScript.
-- 🌱 I’m currently learning MERN stack development.
-- 🥅 My 2022 goal is to create more projects for my portfolio and find a full-time position I deserve.
 - ⚡ Fun fact: I love to take photos with my drone.
 - :computer: Incoming Software Engineer Intern @ Navient
 
