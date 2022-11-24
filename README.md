@@ -3,6 +3,7 @@
 ## I'm a Senior who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
 - ⚡ Fun fact: I love to take photos with my drone.
 - :computer: Co-op Software Engineer Intern @ Navient
+- https://leetcode.com/oucar/
 
 ## Connect with me:
 [<img align="left" alt="Onur Ucar | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
