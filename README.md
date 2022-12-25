@@ -1,8 +1,8 @@
 ### Hi there, I'm Onur 👋
 
-## I'm a Senior who is majoring in Computer Science B.S. along with a Minor in Mathematics!!
+## I'm a Purdue School of Science alumni (2022), and I studied Computer Science B.S., with a Minor in Mathematics!
 - ⚡ Fun fact: I love to take photos with my drone.
-- :computer: Co-op Software Engineer Intern @ Navient
+- :computer: Software Engineer @ Bastian Solutions - A Toyota Advanced Solutions Company
 - https://leetcode.com/oucar/
 
 ## Connect with me:
