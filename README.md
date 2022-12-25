@@ -49,10 +49,4 @@
 <br />
 <br />
 
-
-
-<summary>:zap: GitHub Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oucar)](https://github.com/oucar)
-
 [linkedin]: https://www.linkedin.com/in/onur-ucar-747032186
