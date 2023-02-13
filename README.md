@@ -1,7 +1,4 @@
-### Hi there, I'm Onur 👋
-
 ## I'm a Purdue School of Science alumni (2022), and I studied Computer Science B.S., with a Minor in Mathematics!
-- ⚡ Fun fact: I love to take photos with my drone.
 - :computer: Software Engineer @ Bastian Solutions - A Toyota Advanced Logistics Company
 
 ## Connect with me:
@@ -48,4 +45,5 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/onur-ucar-747032186
+### 📈 GitHub Activity Graph:
+![oucar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oucar&theme=github-compact)
