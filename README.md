@@ -1,10 +1,6 @@
 ## I'm a Purdue School of Science alumni (2022) with a major in Computer Science B.S. and a Minor in Mathematics.
 - :computer: Software Engineer @ Bastian Solutions - A Toyota Advanced Logistics Company
 
-## Connect with me:
-- <img align="left" alt="Onur Ucar | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-
 ## Under my belt:
 
 ### Languages, Libraries and Frameworks:
